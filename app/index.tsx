@@ -7,7 +7,6 @@ export default function App() {
     <View className="flex-1 justify-center items-center bg-red-50">
       <Text className="text-3xl font-pblack ">App</Text>
       <StatusBar style="auto" />
-      <Link href="/+not-found">Not Found</Link>
     </View>
   );
 }
